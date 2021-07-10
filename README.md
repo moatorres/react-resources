@@ -9,7 +9,6 @@
 - [`react-bootstrap`](https://react-bootstrap.github.io/) - Bootstrap 4 in React
 - [`bootswatch`](https://bootswatch.com/) - Free themes for Bootstrap
 - [`react-select`](https://github.com/JedWatson/react-select) - A flexible and beautiful Select Input control for ReactJS
-- [`@hoxlux/ui`](https://github.com/hoxlux/hoxlux-ui) - Hoxlux® Lib
 
 <details><summary><b>Summary</b></summary>
 <br />
